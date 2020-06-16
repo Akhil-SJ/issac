@@ -1,0 +1,74 @@
+---
+###Austin, TX 78705  240-625-7435  Ajonn98@gmail.com
+output: pdf_document
+fontsize: 10pt
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  \center 
+  **$\text{\underline{Sri "Akhil" Jonnalagadda}}$** 
+  
+Austin, TX  - 240-625-7435 - Ajonn98@gmail.com - U.S. Citizen 
+
+**$\text{\underline{Education}}$**  	 													
+**The University of Texas at Austin** *Masters of Arts*, &nbsp;Economics &nbsp;      3.7     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                        May 2020      
+**The University of Texas at Austin** *Bachelor of Arts*, Economics &nbsp;      3.6         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;                                                                      May 2019                                              
+**Computer Skills**: R, SQL, Python, Microsoft Office/Excel, Tableau, and STATA  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
+
+**$\text{\underline{Experience}}$**  
+**Parsley**   Data Scientist;                                          Austin, Texas 	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 	                                                February 2020-Present  
+
+* Used cluster analysis to predict customer segments and revenue streams. Language: R
+* Web Scraped and cleaned public/private access demographic data. Language: R,Python
+* Created reusable forecasting models based on survey data; Language R
+* Developed weekly reports and meet with strategy team for business development planning  
+
+**RunLab.US** Product Development Intern; Austin, Texas 			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 	        February 2019-July 2019        
+
+* Applied growth campaigns by adding on dozens of influential clients in the industry
+* Headed development of new business strategies; including developing partnership with IronMan races
+* Engaged marketing techniques using SEO, Facebook analytics and Google ad-word data
+
+**Livestrong** Lobbyist(Healthcare Economist); Austin, Texas & Washington, D.C.	     &nbsp;  		              November 2016-Present 
+
+* Facilitated meetings with party leaders about in cancer/medical research at state and national level
+* Spoke on the microeconomics of direct funding to the National Health Institute and research hospitals 
+* Led meetings with Texas leaders: Ted Cruz, John Cornyn, Michael McCaul, Lloyd Doggett, Bill Flores 
+* Passed a bill which increased the funding for the National Institute for Health by $38 billion
+
+**JPaulJones** Market Analysis Consultant (Promoted);Austin,Texas		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;                     January 2018-June 2018     
+
+* Wrote white papers and met with the venture capitalists; Project revenues $500,000 per year 
+* Lead on implementation and development plan for a new product launches, marketing and research
+* Analyzed social media and accounting data using regression analysis on STATA and R
+
+**$\text{\underline{Research}}$**  
+**University of Texas(Nursing/Statistics), Houston West/Baylor Scott & White**                               July 2018-Present     
+       
+* Co-lead research on urgent care efficiency and cost analysis, publication pending Summer 2020
+* Lead on cost analysis/economic modeling of staffing and policy on urgent care effectiveness. 
+* Survival and risk analysis on urgent care and insurance big data.
+* Extensive use of statistical programs such as STATA, SPSS and R.
+
+**University of Texas - Nonlinear Dynamics(Physics) & Molecular Biology**                     &nbsp;  &nbsp;             December 2016-2017      
+
+* Co-lead on a research project on the synergistic treatment of bacterial growth in cystic fibrosis
+* Consultant in the Physics department for bacteria stress and strain research  
+
+ **$\text{\underline{Acadmeic Works}}$**  
+Danesh, Zhang, and Jonnalagadda. *"Addressing critical illness outside of the ICU using Early Warning  
+Scores for nurse-led surveillance: A survival analysis"* (2020)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    
+
+ &nbsp;&nbsp;Jonnalagadda. *"Liquified Natural Gas prices changes in the United States after 2005/16 policies?"* (2020)  
+ 
+Robins, Hulsey, and Jonnalagadda. *"Assessing popular prediction models on baseball strikeouts"* (2020) &nbsp;    
+
+Blacutt and Jonnalagadda. *"Treatment of Pseudomonas Aeruginousa  in Cystic Fibrosis infections with &nbsp;    
+Polyethylene-Glycol and Tobramycin-Bicarbonate"* (2017)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
+
+**$\text{\underline{Additional Information}}$**    
+**Languages**: Fluent in Telugu, Basic Knowledge in Spanish  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;   
+**Interests**: Soccer, Cooking, Cars, Start up ventures, Energy trade, Healthcare, and Development Economics
+\pagenumbering{gobble}
